@@ -1,0 +1,5 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /LOCATION/TO/FILE/.htpasswd
+require valid-user
