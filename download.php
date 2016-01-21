@@ -1,4 +1,6 @@
 <?php
+
+  namespace Download; //le nom space download
   
   require_once('ext/connection.php'); 
     $sql= "SELECT name,firstname,groupes,points,datum FROM results ORDER BY datum";
