@@ -5,6 +5,5 @@ try
 }
 catch (Exception $e)
 {
-        die('Erreur : ' . $e->getMessage());
+        echo 'Exception reçue : ',  $e->getMessage(), "\n";
 }
-?>

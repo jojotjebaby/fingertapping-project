@@ -35,6 +35,3 @@
     array_walk($row, 'cleanData');
     echo implode("\t", array_values($row)) . "\r\n";
   }
-  exit;
-
-?>

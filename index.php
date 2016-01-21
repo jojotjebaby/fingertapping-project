@@ -17,7 +17,7 @@
 
 </head>
 <body>
-  <? include '/ext/connection.php'; ?>
+  <?php include '/ext/connection.php'; ?>
 
     <div class="container">
       <div class="header clearfix" style="margin-bottom:20px;">

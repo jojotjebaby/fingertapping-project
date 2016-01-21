@@ -11,4 +11,4 @@ $stmt->bindParam(':firstname', $_POST['firstname'], PDO::PARAM_STR);
 $stmt->bindParam(':group', $_POST['group'], PDO::PARAM_STR); 
 $stmt->bindParam(':points', $_POST['points'], PDO::PARAM_INT);   
                      
-$stmt->execute(); 
+$stmt->execute();
