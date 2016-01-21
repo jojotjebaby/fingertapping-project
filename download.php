@@ -12,7 +12,7 @@
       array_push($data, $datarow);
     }
 
-  public function cleanData(&$str)
+  function cleanData($str)
   {
     $str = preg_replace("/\t/", "\\t", $str);
     $str = preg_replace("/\r?\n/", "\\n", $str);
