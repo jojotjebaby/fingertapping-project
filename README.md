@@ -1,4 +1,4 @@
-# fingertapping-project
+# fingertapping-project [![SensioLabsInsight](https://insight.sensiolabs.com/projects/17637205-7e5a-4da2-aa43-7ee46e1fe5f9/big.png)](https://insight.sensiolabs.com/projects/17637205-7e5a-4da2-aa43-7ee46e1fe5f9)
 This is a little project for my university. It's a finger tapping game
 
 The prupose of the game is to make a little game to see if we can learn to tap faster if we train it.
